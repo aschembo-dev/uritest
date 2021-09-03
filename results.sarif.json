@@ -31,7 +31,7 @@
                   {
                      "physicalLocation":{
                         "artifactLocation":{
-                           "uri":"apple%3A%20test%2Fa.py"
+                           "uri":"apple:dog/a.py"
                         },
                         "region":{
                            "startLine":1,
