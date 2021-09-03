@@ -25,7 +25,7 @@
             {
                "level":"error",
                "message":{
-                  "text":"'x' is assigned a value but never used."
+                  "text":"'y' is assigned a value but never used."
                },
                "locations":[
                   {
