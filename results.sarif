@@ -31,7 +31,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "apple: test/a.py",
+                  "uri": "test",
                 },
                 "region": {
                   "startLine": 1,
