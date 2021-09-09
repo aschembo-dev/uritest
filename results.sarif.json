@@ -41,7 +41,8 @@
                   }
                ],
                "ruleId":"no-unused-vars",
-               "ruleIndex":0
+               "ruleIndex":0,
+               "security-severity": 9.0
             }
          ]
       }
